@@ -14,6 +14,7 @@
 		B07D0B9A1A57D74300A4DBB7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B07D0B991A57D74300A4DBB7 /* Images.xcassets */; };
 		B07D0B9D1A57D74300A4DBB7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B07D0B9B1A57D74300A4DBB7 /* LaunchScreen.xib */; };
 		B07D0BA91A57D74400A4DBB7 /* SectionsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B07D0BA81A57D74400A4DBB7 /* SectionsTests.m */; };
+		B07D0BB31A57DA3000A4DBB7 /* sortednames.plist in Resources */ = {isa = PBXBuildFile; fileRef = B07D0BB21A57DA3000A4DBB7 /* sortednames.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		B07D0BA21A57D74400A4DBB7 /* SectionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SectionsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B07D0BA71A57D74400A4DBB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B07D0BA81A57D74400A4DBB7 /* SectionsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionsTests.m; sourceTree = "<group>"; };
+		B07D0BB21A57DA3000A4DBB7 /* sortednames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sortednames.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				B07D0B991A57D74300A4DBB7 /* Images.xcassets */,
 				B07D0B9B1A57D74300A4DBB7 /* LaunchScreen.xib */,
 				B07D0B8C1A57D74300A4DBB7 /* Supporting Files */,
+				B07D0BB21A57DA3000A4DBB7 /* sortednames.plist */,
 			);
 			path = Sections;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B07D0BB31A57DA3000A4DBB7 /* sortednames.plist in Resources */,
 				B07D0B981A57D74300A4DBB7 /* Main.storyboard in Resources */,
 				B07D0B9D1A57D74300A4DBB7 /* LaunchScreen.xib in Resources */,
 				B07D0B9A1A57D74300A4DBB7 /* Images.xcassets in Resources */,
